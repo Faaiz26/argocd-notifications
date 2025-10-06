@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: faaizu/nginx:v0.1.0
+          image: faaizu/nginx:v0.1.5
           ports:
             - containerPort: 80
